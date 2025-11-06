@@ -15,4 +15,4 @@ Winie de Jesus
 Benjamin de Satana
 Tainá Santos
 Guilherme Souza
-Victporia Capistrano
+Victoria Capistrano
