@@ -16,3 +16,18 @@ Benjamin de Satana;
 Tainá Santos;
 Guilherme Souza;
 Victoria Capistrano.
+
+Gp 3:
+Geovana Santana;
+Yasmin Ribeiro;
+Ana Caroline de Oliveira;
+Larissa da Silva;
+Paulo Aldo de Oliveira.
+
+Gp 4:
+Eslle Souza;
+Trícia Britto;
+Victor Gabriel Jesus;
+Maria Eduarda Andrade;
+Isabella Almeida;
+Alef Sena.
